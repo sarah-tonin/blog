@@ -2,10 +2,6 @@
  
 <!-- 
 {
-  "date":"",
-  "title":"", 
   "tags": [],
-  "references": [], 
-  "changelog": []
 }
 -->
